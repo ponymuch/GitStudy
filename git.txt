@@ -1,1 +1,3 @@
 GitTest
+
+Add a new line
