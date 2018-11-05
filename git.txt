@@ -3,3 +3,5 @@ GitTest
 Add a new line
 
 Modify files
+
+Staged Test
