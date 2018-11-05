@@ -7,3 +7,5 @@ Modify files
 Staged Test
 
 New Branch !
+
+Master Modified!
