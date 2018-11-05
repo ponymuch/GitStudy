@@ -15,3 +15,9 @@ Feature Latest
 MMMMMMM
 NNNNN
 
+
+
+Stash!
+
+
+Name changed!
